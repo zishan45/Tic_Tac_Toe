@@ -10,9 +10,8 @@ Key Highlights of the Project:
 * Added real-time win detection using optimized condition checks 🧠
 * Handled edge cases such as draw situations and invalid moves ⚠️
 * Included a restart/reset feature to enhance user experience 🔁
-<br><br>
-What I Learned:
 <br>
+What I Learned:
 * Strengthened my understanding of DOM manipulation and event handling 📌
 * Improved problem-solving skills by structuring game logic efficiently 🧩
 * Learned how to break down a problem into smaller logical steps 📊
