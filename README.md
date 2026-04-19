@@ -12,10 +12,11 @@ Key Highlights of the Project:
 * Included a restart/reset feature to enhance user experience 🔁
 <br>
 What I Learned:
-* Strengthened my understanding of DOM manipulation and event handling 📌
-* Improved problem-solving skills by structuring game logic efficiently 🧩
-* Learned how to break down a problem into smaller logical steps 📊
-* Gained hands-on experience in building user-friendly interfaces 🎯
+<br><br>
+* Strengthened my understanding of DOM manipulation and event handling 📌<br>
+* Improved problem-solving skills by structuring game logic efficiently 🧩<br>
+* Learned how to break down a problem into smaller logical steps 📊<br>
+* Gained hands-on experience in building user-friendly interfaces 🎯<br>
 <br><br>
 This project reflects my continuous effort to build a strong foundation in web development and problem-solving. Looking forward to building more complex and scalable applications ahead 🚀
 <br><br>
