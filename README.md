@@ -22,8 +22,8 @@ This project reflects my continuous effort to build a strong foundation in web d
 <br><br>
 #WebDevelopment #JavaScript #FrontendDevelopment #Projects #LearningByDoing
 <br>
-🤝 Connect With Me-
-* LinkedIn: https://Linkedin.com/in/zishanahmed45
-* GitHub: https://github.com/zishan45
-* LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/
-* Email: zishanahmed.official@gmail.com
+🤝 Connect With Me-<br>
+* LinkedIn: https://Linkedin.com/in/zishanahmed45 <br>
+* GitHub: https://github.com/zishan45 <br>
+* LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/ <br>
+* Email: zishanahmed.official@gmail.com <br>
