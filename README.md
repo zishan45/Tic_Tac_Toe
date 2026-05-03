@@ -21,7 +21,7 @@ What I Learned:
 This project reflects my continuous effort to build a strong foundation in web development and problem-solving. Looking forward to building more complex and scalable applications ahead 🚀
 <br><br>
 #WebDevelopment #JavaScript #FrontendDevelopment #Projects #LearningByDoing
-<br>
+<br><br>
 🤝 Connect With Me-<br>
 * LinkedIn: https://Linkedin.com/in/zishanahmed45 <br>
 * GitHub: https://github.com/zishan45 <br>
